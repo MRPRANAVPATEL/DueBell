@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DueBell</string>
+    <color name="launcher_background">#432D91</color>
+    <style name="Theme.DueBell" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F9F7FD</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
