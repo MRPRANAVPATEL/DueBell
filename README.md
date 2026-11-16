@@ -10,7 +10,7 @@ DueBell is an offline Android app for reminders that stay pending until you mark
 
 Open the APK on a phone running Android 8.0 or later and follow Android's installation prompts.
 
-> Built for personal use and Android development practice. Install it if you’d like to try it.
+> Built for personal use and Android development practice. Install it at your own discretion.
 
 ## Set up alerts on Samsung
 
