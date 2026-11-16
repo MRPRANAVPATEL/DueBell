@@ -6,7 +6,9 @@ DueBell is an offline Android app for reminders that stay pending until you mark
 
 ## Download
 
-Open [GitHub Releases](https://github.com/MRPRANAVPATEL/DueBell/releases) and download `DueBell.apk` under **Assets**. Open the APK on a phone running Android 8.0 or later and follow Android's installation prompts.
+**[Download DueBell.apk](https://github.com/MRPRANAVPATEL/DueBell/releases/download/v1.0.0-preview/DueBell.apk)** · [Version v1.0.0-preview release](https://github.com/MRPRANAVPATEL/DueBell/releases/tag/v1.0.0-preview)
+
+Open the APK on a phone running Android 8.0 or later and follow Android's installation prompts.
 
 > Built for personal use and Android development practice. Install it at your own discretion.
 
